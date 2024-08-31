@@ -55,7 +55,7 @@
   a href="https://daneshverma.onrender.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=linkedin&label=&color=24c0f2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  </div>
+
 
 
 
