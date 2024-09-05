@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My journey into web development began with a curiosity to understand how the digital world operates. Through self-study and hands-on projects, I've honed my skills With a solid foundation in both front-end and back-end development, I excel in creating responsive and intuitive web applications. Proficient in HTML, CSS, JavaScript, and familiar with frameworks such as React on the front end, coupled with expertise in Node.js and Express on the back end, I am poised to tackle challenges across the full development stack.  <br>  📚 I'm currently learning Postgres SQL <br>🎯 Goals: Being A Professional In Web Development</p>
+<p align="left">My journey into web development began with a curiosity to understand how the digital world operates. Through self-study and hands-on projects, I've honed my skills With a solid foundation in both front-end and back-end development, I excel in creating responsive and intuitive web applications. Proficient in HTML, CSS, JavaScript, and familiar with frameworks such as React on the front end, coupled with expertise in Node.js and Express on the back end, I am poised to tackle challenges across the full development stack. <br>🎯 Goals: Being A Professional In Web Development</p>
 
 ###
 
