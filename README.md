@@ -1,61 +1,84 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<!-- 🌟 Developer Profile: Daneshwar Verma -->
+<h1 align="center">
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30"/> 
+  Hey there, I'm <span style="color:#00BFA6;">Daneshwar Verma</span>
+</h1>
 
-###
+<p align="center">
+  <em>🚀 Full-Stack Developer from India | MERN Stack | Passionate about building fast, reliable, and delightful web apps.</em>
+</p>
 
-<p align="left">My name is Daneshwar Verma and I'm a Full Stack Developer from India</p>
+<hr style="border: 1px solid #00BFA6; width: 70%;" />
 
-###
+<h2 align="left">👨‍💻 About Me</h2>
 
-<h2 align="left">About me</h2>
+<p align="left">
+  The journey began with curiosity about how the web works and evolved into a deep love for building things that solve problems. 
+  From crafting pixel-perfect UIs to designing scalable APIs — I aim to build products that feel <strong>simple, smooth, and efficient.</strong>
+  <br /><br />
+  🌱 <strong>Current Focus:</strong> development & design patterns, Node/Express best practices, DevOps, testing, and CI/CD pipelines.<br />
+  🎯 <strong>Goal:</strong> Become a top-tier developer building production-grade systems that matter.
+</p>
 
-###
+---
 
-<p align="left">My journey into web development began with a curiosity to understand how the digital world operates. Through self-study and hands-on projects, I've honed my skills With a solid foundation in both front-end and back-end development, I excel in creating responsive and intuitive web applications. Proficient in HTML, CSS, JavaScript, and familiar with frameworks such as React on the front end, coupled with expertise in Node.js and Express on the back end, I am poised to tackle challenges across the full development stack. <br>🎯 Goals: Being A Professional In Web Development</p>
+<h2 align="left">🛠️ Tech Stack</h2>
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass"/>
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+<h2 align="left">🌐 Connect with Me</h2>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sass/sass-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-
-<div align="left">
+<p align="center">
   <a href="https://www.instagram.com/thedanesh7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/daneshverma/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   <a href="https://daneshverma.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=similarweb&label=&color=212324&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/Portfolio-212324?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="Portfolio" />
   </a>
+</p>
 
+---
 
+<h2 align="left">✨ Highlights</h2>
+<ul>
+  <li>💡 Built and deployed end-to-end MERN stack applications with clean architecture.</li>
+  <li>🎨 Focused on UI/UX, accessibility, and component-driven React design.</li>
+  <li>⚙️ Experience with testing (Jest, Supertest), Docker, and CI/CD workflows.</li>
+</ul>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaneshVerma&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaneshVerma&theme=radical" height="160" />
+</p>
 
