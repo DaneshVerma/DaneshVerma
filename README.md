@@ -55,7 +55,7 @@
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/thedanesh7/" target="_blank">
+  <a href="https://www.instagram.com/danesh.log/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/daneshverma/" target="_blank">
