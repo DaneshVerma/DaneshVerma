@@ -76,9 +76,3 @@
 </ul>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaneshVerma&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaneshVerma&theme=radical" height="160" />
-</p>
-
