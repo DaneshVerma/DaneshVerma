@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,git,docker&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,postgres,python,django,docker,git,github,linux,tailwind,bootstrap,sass,html,css,jest,aws,nginx&perline=8&theme=dark" />
 
 </p>
 
@@ -31,8 +31,8 @@
 backend architecture
 system design
 python backend engineering
-testing workflows
 CI/CD pipelines
+production-grade services
 
 </p>
 
@@ -60,6 +60,10 @@ production-ready thinking
 
 <a href="https://daneshverma.onrender.com/">
 <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.instagram.com/danesh.log/">
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 </p>
