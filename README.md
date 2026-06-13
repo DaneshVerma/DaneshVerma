@@ -62,7 +62,7 @@ production-ready thinking
 <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://www.instagram.com/danesh.log/">
+<a href="https://www.instagram.com/thedaneshverma/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
