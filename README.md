@@ -18,7 +18,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,postgres,python,django,docker,git,github,linux,tailwind,bootstrap,sass,html,css,jest,aws,nginx&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,postgres,python,fastapi,docker,git,github,linux,tailwind,bootstrap,sass,html,css,jest,aws,nginx&perline=8&theme=dark" />
 
 </p>
 
